@@ -10,8 +10,6 @@
 <td><img src="./Images/game_lose.png" alt="game lost screenshot"></td>
 </table>
 
-### The classic Rock, Paper, Scissors game written in C++
-
 ### This game demonstrates:
 
 - Assigning variables as strings to easily reuse certain words/phrases - reducing repetition across the code
